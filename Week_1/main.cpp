@@ -5,7 +5,7 @@ int main() {
 
     // CHANGED world -> sex
     std::cout << "Hello, sex !" << std::endl;
-    std::cout << "fuck and sex " << '\n';
+    std::cout << "fuck and sex ddd" << '\n';
 
     return 0;
 }
