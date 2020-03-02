@@ -5,5 +5,6 @@ int main() {
 
     // CHANGED world -> sex
     std::cout << "Hello, sex !" << std::endl;
+    std::cout << "sex" << '\n';
     return 0;
 }
